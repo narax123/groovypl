@@ -4,6 +4,7 @@
   "main": "bot.js",
   "version": "1.6.10",
   "dependencies": {
+    "discord-bot-maker": "^0.3.0",
     "discord.js": "^12.2.0",
     "fstorm": "latest",
     "jimp": "latest",
